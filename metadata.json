@@ -1,0 +1,5 @@
+{
+  "name": "VideoNote AI",
+  "description": "Upload videos, take timestamped notes, and leverage AI to analyze frames or refine your observations.",
+  "requestFramePermissions": []
+}
